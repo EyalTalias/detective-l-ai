@@ -3,7 +3,7 @@
 **An AI social-intelligence advisor: describe any social situation – a date, a group chat, a negotiation, a tense moment at work – and Detective L tells you what's really going on and exactly what to do or say next.**
 
 <p>
-  <a href="https://apps.apple.com/us/app/detectivel-ai/id6786419523"><img alt="Download on the App Store" src="https://tools.applemarketingtools.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" height="48"></a>
+  <a href="https://apps.apple.com/us/app/detectivel-ai/id6786419523"><img alt="Download on the App Store" src="https://toolbox.marketingtools.apple.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" height="48"></a>
   <a href="https://play.google.com/store/apps/details?id=com.detectivel.ai"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"></a>
 </p>
 
